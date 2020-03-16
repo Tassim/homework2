@@ -1,0 +1,32 @@
+.navbar-brand {
+    color: lightcyan;
+    font-weight: bold;
+    font-style: italic;
+    padding: 20px 40px;
+}
+
+a {
+    color: skyblue;
+}
+
+body {
+    background-image: url(./background551.jpg);
+    background-color: #f8d9f1;
+    font-family: "Lato", sans-serif;
+}
+
+h1 {
+    color: purple;
+    font-weight: bold;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color:gray ;
+}
